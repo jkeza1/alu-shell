@@ -1,2 +1,1 @@
-#!/bin/bash
-alu-shell io redirections and filters readme file
+alu shell io redirections and filters readme file
