@@ -1,2 +1,2 @@
-#!/bash/bin
+/usr/bin/bash/screen
 echo "Hello, World"
