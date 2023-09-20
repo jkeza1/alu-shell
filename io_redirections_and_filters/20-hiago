@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "Please enter your text:"
-read text
-echo $text | tr -d 'cC'
+tr -d "cC"
