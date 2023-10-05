@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-# Chriss, Use bash to find processes by name
+# Chriss, Use pgrep to find processes by name
+
+pgrep -l bash
